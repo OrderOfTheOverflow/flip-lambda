@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/logDir/html-reports/Running%20out%20virtual%20account%20quotasuite1" />
+      <excludeFolder url="file://$MODULE_DIR$/logDir/html-reports/screenshots" />
+      <excludeFolder url="file://$MODULE_DIR$/logDir/html-reports/Single%20Transfer%20from%20Favourite%20Listsuite1" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
