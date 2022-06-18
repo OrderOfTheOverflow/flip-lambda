@@ -12,7 +12,7 @@ module.exports = {
     PLATFORM_VERSION: '11',
     BUNDLE_ID: 'id.flip.staging',
     AUTHOR_NAME: authorName,
-    FILE_NAME: 'flip_release_2.4.0-regression.06_2022.06.16_22.03.50.apk',
+    FILE_NAME: 'flip.apk',
     // FILE_NAME: 'flip.apk',
     APP_VERSION: '2.0',
 
