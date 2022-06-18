@@ -20,10 +20,11 @@ of key point to tackle too many times for manual testers, especially in regressi
 # Quickstart
 
 - Install: Java v14, NodeJS v14, yarn, npm, git
-- Go to flip mobile root directory
+- Go to  root directory
 - `yarn global add appium && yarn install`
 - Before running tests, please provide apk file in `./automation_tests/apps`, for android it should be `flip.apk`
   and for iOS it should be `Flip.app` or `Flip.ipa`
+- Change `.env` value, ask eqi@flip.id for access key flip test API
 - Change config value in `./automation_tests/config/constant.conf.js` (change with your own environment). Note that you
   might need to run specific scenarios, you can comment out some scenarios that you don't want to be run.
 - open terminal and run `yarn appium`, keep it running.
