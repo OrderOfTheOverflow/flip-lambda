@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ir-scenes/*": [
+        "../src/stream/ir/scenes/*"
+      ],
+      "@auto-helper/*": [
+        "./helper/*"
+      ],
+      "@auto-ir/*": [
+        "./stream/ir/*"
+      ],
+      "@auto-dp/*": [
+        "./stream/dp/*"
+      ],
+      "@auto-shared/*": [
+        "./stream/shared/*"
+      ],
+      "@auto-docter/*": [
+        "./stream/docter/*"
+      ],
+      "@stream/*": [
+        "../src/stream/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

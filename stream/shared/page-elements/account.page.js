@@ -1,0 +1,15 @@
+module.exports = {
+    ChangeProfileContactUs: 'PROFILE_ACCOUNT_SCENE-BUTTON-CONTACT_US',
+    InviteFriend: 'PROFILE_ACCOUNT_SCENE-BUTTON-INVITE_FRIEND',
+    AccountSceneButtonInviteFriend: 'PROFILE_ACCOUNT_SCENE-BUTTON-INVITE_FRIEND',
+    AccountSceneButtonUpdateAccountData: 'PROFILE_ACCOUNT_SCENE-BUTTON-CONTACT_US',
+    AccountSceneButtonChangeLanguage: 'PROFILE_ACCOUNT_SCENE-BUTTON-CHANGE_LANGUAGE',
+    AccountSceneButtonChangePassword: 'PROFILE_ACCOUNT_SCENE-BUTTON-CHANGE_PASSWORD',
+    AccountSceneButtonLogout: 'HOME_SCENE-TOUCHABLE-EXIT_APPS',
+    AccountSceneButtonAccountVerificationAccount: 'PROFILE_ACCOUNT_SCENE-BUTTON-ACCOUNT_IS_NOT_VERIFIED',
+    UpdatePersonalPhoneNumber: 'UPDATE_PERSONAL_DATA_SCENE-BUTTON_CHANGE_PHONE_NUMBER',
+    AccountSceneTextAccountVerification: 'PROFILE_ACCOUNT_SCENE-TEXT-ACCOUNT_VERIFICATION',
+    PopUpConfirmLogoutConfirmationText: 'HOME_SCENE-TEXT-TITLE_CONFIRMATION_MODAL',
+    PopUpConfirmButtonLogout: 'HOME_SCENE-TOUCHABLE-ACCEPT_EXIT_APPS',
+    PopUpConfirmButtonCancel: 'HOME_SCENE-BUTTON-CANCEL_TEXT_APP'
+};

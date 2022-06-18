@@ -1,0 +1,6 @@
+const KEY = 'EMONEY_ACTIVATION_TOOLTIP';
+
+module.exports = {
+    TEXT_TITLE: `${KEY}-TEXT-TITLE`,
+    BUTTON_CLOSE: `${KEY}-BUTTON-CLOSE`,
+};

@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "cwd": "babelrc",
+        "extensions": [
+          ".js",
+          ".ios.js",
+          ".android.js"
+        ],
+        "root": [
+          "."
+        ],
+        "alias": {
+          "@ir-scenes": "../src/stream/ir/scenes",
+          "@auto-helper": "./helper",
+          "@auto-ir": "./stream/ir",
+          "@auto-dp": "./stream/dp",
+          "@auto-shared": "./stream/shared",
+          "@auto-docter": "./stream/docter",
+          "@stream": "../src/stream"
+        }
+      }
+    ]
+  ]
+}

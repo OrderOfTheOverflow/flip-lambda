@@ -1,0 +1,1 @@
+/* Put all helper here that related to your stream only */

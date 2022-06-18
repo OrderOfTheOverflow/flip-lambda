@@ -1,0 +1,5 @@
+module.exports = {
+    KeyboardView: 'INPUT_VIEW-KEYBOARD_VIEW',
+    TextTitle: 'INPUT_PIN_AFTER_LOGIN_SCENE-TEXT-TITLE',
+    ForgotPinButton: 'INPUT_PIN_AFTER_LOGIN_SCENE-BUTTON-FORGOT_PIN'
+};
