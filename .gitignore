@@ -1,1 +1,12 @@
 /node_modules/
+# custom
+apps
+!apps/*.md
+*.log
+chromeDriver
+
+package-lock.json
+
+logDir/
+mochawesome-report/
+_results_/
